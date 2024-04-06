@@ -38,22 +38,17 @@ const Footer = () => {
               className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl
 "
             >
-              Eshop
+              Shop-E
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores
-              alias cum
+              735x,steve road
+              washington dc 
+              USA
             </p>
             <p className="text-gray-500 mt-4">
-              Made with 💖 by The Coding Journey
+              
             </p>
-            <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
-              target="_blank"
-              className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full"
-            >
-              Visit our YouTube Channel
-            </a>
+           
           </div>
 
           {/* Footer links */}
@@ -100,7 +95,7 @@ const Footer = () => {
               <div>
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida , Uttar Pradesh</p>
+                  <p>735x,steve road washington dc USA</p>
                 </div>
                 <div className="flex items-center gap-3 mt-6">
                   <FaMobileAlt />

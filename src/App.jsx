@@ -25,7 +25,7 @@ const BannerData = {
   title2: "Air Solo Bass",
   title3: "Winter Sale",
   title4:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis",
+    "Get upto 70%off !",
   bgColor: "#f42c37",
 };
 
@@ -37,7 +37,7 @@ const BannerData2 = {
   title2: "Smart Solo",
   title3: "Winter Sale",
   title4:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis",
+    "Get a git card of worth $100",
   bgColor: "#2dcc6f",
 };
 
